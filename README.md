@@ -11,7 +11,7 @@ allprojects {
 	}
 }
 ```
-##### 2、添加dependency
+##### 2、添加dependency依赖
 
 ```
 dependencies {
