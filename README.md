@@ -17,7 +17,7 @@ dependencies {
     compile 'com.github.shwenjin:mupdflib:V1.0.2'
 }
 ```
-##### 3、在XML布局中添加自定义View
+##### 3、在XML布局中添加自定义View及配置
 
 ```
 <com.artifex.mupdfdemo.WJPdfView 
